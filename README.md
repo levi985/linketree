@@ -1,4 +1,4 @@
-# Meu Primeiro Projeto Front-End
+# ProJeto linketree
 
 Este projeto faz parte do curso de Front-End oferecido pelo Mimo, onde aprendi conceitos básicos de HTML, CSS e como criar páginas web simples. Fiz algumas alterações que achei interessantes para personalizar o projeto.
 
